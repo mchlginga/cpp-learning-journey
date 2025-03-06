@@ -15,7 +15,7 @@ int main ()
     std::cout << "Enter your age: ";
     std::cin >> age;
 
-    std::cout << "\n";
+    std::cout << '\n';
 
     std::cout << "Hello " << surname << ", " << firstname << "! you are " << age << " years old.";
 

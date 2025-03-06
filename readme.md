@@ -14,9 +14,6 @@ b - Objects and Variables.
 
 c - Variable Assignment and Initialization
 
-
-
-
 ## Credits
 
 this project is inspired by and references materials from [LearnCpp](https://www.learncpp.com/).  
