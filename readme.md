@@ -9,6 +9,7 @@ i'm doing this while also learning how to use Git and GitHub lol.
 ## Table of Contents
 
 a - Structure and Statements.
+
 b - Objects and Variables.
 
 
