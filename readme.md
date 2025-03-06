@@ -8,11 +8,17 @@ i'm doing this while also learning how to use Git and GitHub lol.
 
 ## Table of Contents
 
-a - Structure and Statements.
+01 - Structure and Statements.
 
-b - Objects and Variables.
+02 - Objects and Variables.
 
-c - Variable Assignment and Initialization
+03 - Variable Assignment and Initialization
+
+04 - iostream, cin, cout
+
+05 - First C++ Program
+
+06 - 
 
 ## Credits
 
