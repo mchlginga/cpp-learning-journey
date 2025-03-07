@@ -110,6 +110,41 @@ returnType functionName(parameterType param1, parameterType param2)
 
 ---
 
-Question:
+# Question:
 
 Write a complete program that reads an integer from the user, doubles it using the doubleNumber() function you wrote in the previous quiz question, and then prints the doubled value out to the console
+
+---
+
+# Forward Declarations
+
+- a declaration of a function or class before its actual definition.
+
+- used when a function is called before its definition in the code.
+
+
+## Why Use Forward Declarations
+
+1. prevents compilation errors due to missing definitions.
+
+2. allows better code organization (e.g., placing main() at the top).
+
+3. reduces dependencies in header files (useful for large projects).
+
+
+## Syntax
+
+// Forward declaration
+int add(int, int);
+
+int main() {
+    std::cout << add(3, 4) << std::endl; // Function called before definition
+    return 0;
+}
+
+// Function definition
+int add(int a, int b) {
+    return a + b;
+}
+
+---
