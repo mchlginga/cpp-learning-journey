@@ -6,17 +6,16 @@ starting from March 03, 2025 to March 19-26, 2025.
 
 ## Table of Contents
 
-01 - Structure and Statements.
-
-02 - Objects and Variables.
-
-03 - Variable Assignment and Initialization
-
-04 - iostream, cin, cout
-
-05 - First C++ Program
-
-06 - 
+01. Structure and Statements.
+02. Objects and Variables.
+03. Variable Assignment and Initialization
+04. iostream, cin, cout
+05. Quiz: First Program
+06. Introduction to Functions
+07. Programs with Multiple Code Files
+08. Naming Collisions & Namespaces
+09. Quiz: Functions, Multiple Files
+10. Quiz: Debugging
 
 ## Credits
 
